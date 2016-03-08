@@ -1,0 +1,22 @@
+
+
+body {
+  font-family: 'helvetica neue';
+  text-align: center;
+  background:url("../images/Polarlicht.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+button {
+  font-size: 2em;
+  padding: 18px;
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  background-color: #522CBA;
+}
+
+section {
+  margin: 10px 0;
+}
